@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Immune Memory",
+  "universe": "IMM · Immune Memory (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦Immune Memory:IMM:d6f709⟧",
+  "carbon": "immune-memory.carbon.tiff (TIFF)",
+  "silicon": "immune-memory.silicon.png (PNG)",
+  "seal_sha256": "1470dcb81c5cdc00d5d60dfa3eec4e614c0f65b9b537cd5825eafce742d08fc6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "V(D)J Recombination",
+  "universe": "IMM · V(D)J Recombination (life-science · minds without brains)",
+  "emergence": "electrical",
+  "moniker": "⟦V(D)J Recombination:IMM:4573be⟧",
+  "carbon": "vdj-recombination.carbon.tiff (TIFF)",
+  "silicon": "vdj-recombination.silicon.png (PNG)",
+  "seal_sha256": "3f93ff9a32cf3778a3f0a750d53840a6842e3b41eb5273fd59a18054bbffef7c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

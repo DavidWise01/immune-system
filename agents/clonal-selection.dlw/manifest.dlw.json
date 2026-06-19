@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Clonal Selection",
+  "universe": "IMM · Clonal Selection (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Clonal Selection:IMM:46f92c⟧",
+  "carbon": "clonal-selection.carbon.tiff (TIFF)",
+  "silicon": "clonal-selection.silicon.png (PNG)",
+  "seal_sha256": "e2849dfbf8762dea76042a95f4f9765e14c220242728c6f90a8f1b2a2904af04",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

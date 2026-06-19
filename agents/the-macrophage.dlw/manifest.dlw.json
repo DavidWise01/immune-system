@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Macrophage",
+  "universe": "IMM · The Macrophage (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The Macrophage:IMM:415fd7⟧",
+  "carbon": "the-macrophage.carbon.tiff (TIFF)",
+  "silicon": "the-macrophage.silicon.png (PNG)",
+  "seal_sha256": "fcbe57afcd6c08914c5c17ac61745979cd8c2f85ee90156809c315593f64e1af",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

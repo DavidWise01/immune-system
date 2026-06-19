@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Frank Macfarlane Burnet",
+  "universe": "IMM · Frank Macfarlane Burnet (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Frank Macfarlane Burnet:IMM:c8d22f⟧",
+  "carbon": "frank-macfarlane-burnet.carbon.tiff (TIFF)",
+  "silicon": "frank-macfarlane-burnet.silicon.png (PNG)",
+  "seal_sha256": "c85773beece7d16faf8adbfb7418a9da13df41c13d7f1ea3ab3448c4a4b30261",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

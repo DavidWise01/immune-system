@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Self-Tolerance",
+  "universe": "IMM · Self-Tolerance (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦Self-Tolerance:IMM:c6e87f⟧",
+  "carbon": "self-tolerance.carbon.tiff (TIFF)",
+  "silicon": "self-tolerance.silicon.png (PNG)",
+  "seal_sha256": "c9ac6f0e3fd675f6abb9f3095f8a67697ebe6dc7fc0dbd7b2562bebe4d9b7574",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

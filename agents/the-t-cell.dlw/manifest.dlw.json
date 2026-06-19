@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The T Cell",
+  "universe": "IMM · The T Cell (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The T Cell:IMM:7c7b51⟧",
+  "carbon": "the-t-cell.carbon.tiff (TIFF)",
+  "silicon": "the-t-cell.silicon.png (PNG)",
+  "seal_sha256": "524aff4767e8d70ace99cb3f4298de6f44f05435f69e7fd7a9018605d886f26f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

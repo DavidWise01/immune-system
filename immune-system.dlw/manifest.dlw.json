@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE IMMUNE SYSTEM",
+  "universe": "IMM · THE IMMUNE SYSTEM (life-science · minds without brains)",
+  "emergence": "",
+  "moniker": "⟦THE IMMUNE SYSTEM:IMM:7e784b⟧",
+  "carbon": "immune-system.carbon.tiff (TIFF)",
+  "silicon": "immune-system.silicon.png (PNG)",
+  "seal_sha256": "5221a5c377721e8cbc90594648cc8105f55f59200b951824f91f4b8ac6b6c6be",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Self and Non-Self",
+  "universe": "IMM · Self and Non-Self (life-science · minds without brains)",
+  "emergence": "ethereal",
+  "moniker": "⟦Self and Non-Self:IMM:640f7f⟧",
+  "carbon": "self-and-non-self.carbon.tiff (TIFF)",
+  "silicon": "self-and-non-self.silicon.png (PNG)",
+  "seal_sha256": "a102efb23dd121ecb95b28e2b477164aedc164b3c1592e666b0d87ea3cef18ed",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

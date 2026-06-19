@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The B Cell & Antibody",
+  "universe": "IMM · The B Cell & Antibody (life-science · minds without brains)",
+  "emergence": "natural",
+  "moniker": "⟦The B Cell & Antibody:IMM:b7049e⟧",
+  "carbon": "the-b-cell-and-antibody.carbon.tiff (TIFF)",
+  "silicon": "the-b-cell-and-antibody.silicon.png (PNG)",
+  "seal_sha256": "dd25d89ec871fb05200d3ac02234b7ac3d93095d0ba4ebda5a8c65ac44c317b2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "self-and-non-self",
+    "name": "Self and Non-Self",
+    "epithet": "the question it answers · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Self and Non-Self:IMM:640f7f⟧"
+  },
+  {
+    "slug": "the-innate-system",
+    "name": "The Innate System",
+    "epithet": "the fast, ancient guard · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Innate System:IMM:db5cfd⟧"
+  },
+  {
+    "slug": "the-adaptive-system",
+    "name": "The Adaptive System",
+    "epithet": "the learned army · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Adaptive System:IMM:4f9eef⟧"
+  },
+  {
+    "slug": "the-macrophage",
+    "name": "The Macrophage",
+    "epithet": "the devourer · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Macrophage:IMM:415fd7⟧"
+  },
+  {
+    "slug": "the-t-cell",
+    "name": "The T Cell",
+    "epithet": "the commander and the killer · natural",
+    "emergence": "natural",
+    "moniker": "⟦The T Cell:IMM:7c7b51⟧"
+  },
+  {
+    "slug": "the-b-cell-and-antibody",
+    "name": "The B Cell & Antibody",
+    "epithet": "the precision weapon · natural",
+    "emergence": "natural",
+    "moniker": "⟦The B Cell & Antibody:IMM:b7049e⟧"
+  },
+  {
+    "slug": "clonal-selection",
+    "name": "Clonal Selection",
+    "epithet": "the engine of specificity · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Clonal Selection:IMM:46f92c⟧"
+  },
+  {
+    "slug": "vdj-recombination",
+    "name": "V(D)J Recombination",
+    "epithet": "how a billion keys are cut · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦V(D)J Recombination:IMM:4573be⟧"
+  },
+  {
+    "slug": "immune-memory",
+    "name": "Immune Memory",
+    "epithet": "why a vaccine works · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Immune Memory:IMM:d6f709⟧"
+  },
+  {
+    "slug": "self-tolerance",
+    "name": "Self-Tolerance",
+    "epithet": "the restraint that keeps you alive · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Self-Tolerance:IMM:c6e87f⟧"
+  },
+  {
+    "slug": "elie-metchnikoff",
+    "name": "Élie Metchnikoff",
+    "epithet": "the cellular theory of immunity, 1845–1916 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Élie Metchnikoff:IMM:3df76e⟧"
+  },
+  {
+    "slug": "frank-macfarlane-burnet",
+    "name": "Frank Macfarlane Burnet",
+    "epithet": "clonal selection, 1899–1985 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Frank Macfarlane Burnet:IMM:c8d22f⟧"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Élie Metchnikoff",
+  "universe": "IMM · Élie Metchnikoff (life-science · minds without brains)",
+  "emergence": "spiritual",
+  "moniker": "⟦Élie Metchnikoff:IMM:3df76e⟧",
+  "carbon": "elie-metchnikoff.carbon.tiff (TIFF)",
+  "silicon": "elie-metchnikoff.silicon.png (PNG)",
+  "seal_sha256": "55dafbe24c986307949d35e10fa75356648dad9dd8be00b3afed615c274c4937",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
