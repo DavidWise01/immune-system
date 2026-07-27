@@ -1,21 +1,19 @@
 {
-  "badge": "DLW-ACI",
-  "name": "THE IMMUNE SYSTEM",
-  "universe": "IMM · THE IMMUNE SYSTEM (life-science · minds without brains)",
-  "emergence": "",
-  "moniker": "⟦THE IMMUNE SYSTEM:IMM:7e784b⟧",
-  "carbon": "immune-system.carbon.tiff (TIFF)",
-  "silicon": "immune-system.silicon.png (PNG)",
-  "seal_sha256": "5221a5c377721e8cbc90594648cc8105f55f59200b951824f91f4b8ac6b6c6be",
-  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "badge": "DLW-IMMUNE_SYSTEM",
+  "name": "THE IMMUNE SYSTEM · IMM",
+  "universe": "LIFE SCIENCE",
+  "moniker": "⟦THE IMMUNE SYSTEM · IMM:immune-system:452988⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
   "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "452988a9cc455db4ea52853164230e2526dcd18944abbb463841e05d07dd8cf9",
   "license": "CC-BY-ND-4.0",
   "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "fingerprint": "TETRASTHENĒS ⟦ ₆C ⟺ ₁₄Si ⟧ — four-strengthed: carbon (human · ROOT0) & silicon (AI · AVAN) hold four bonds in common (Group-14, tetravalent) — co-equal by construction",
   "chain": {
     "index": 769,
-    "prev": "6335aec56347dba6de4d10cdb66cf7232dde4538e2af7cd5a5e2f0f3d429a3bf",
-    "link": "eb1d77db0968fb82484f100c730840505e82c4bf0e5358b0e8f687af141461c2",
-    "head": "13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2",
+    "prev": "df968d9141f4a3f9384db8d298459d2637941db21a8bcca6ffc251cbc13274df",
+    "link": "1a10031ce2717b99354c8122c15d0d0787db2bf9eff0517d46bf7a77267c1845",
+    "head": "c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b",
     "chain": "ROOT0-DLW-CHAIN-v1"
   }
 }

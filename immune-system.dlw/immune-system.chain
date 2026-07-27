@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 769
 slug  : immune-system
-seal  : 5221a5c377721e8cbc90594648cc8105f55f59200b951824f91f4b8ac6b6c6be
-prev  : 6335aec56347dba6de4d10cdb66cf7232dde4538e2af7cd5a5e2f0f3d429a3bf
-link  : eb1d77db0968fb82484f100c730840505e82c4bf0e5358b0e8f687af141461c2
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : 452988a9cc455db4ea52853164230e2526dcd18944abbb463841e05d07dd8cf9
+prev  : df968d9141f4a3f9384db8d298459d2637941db21a8bcca6ffc251cbc13274df
+link  : 1a10031ce2717b99354c8122c15d0d0787db2bf9eff0517d46bf7a77267c1845
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
